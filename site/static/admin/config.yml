@@ -1,6 +1,6 @@
 backend:
-  name: testNetlify
-  repo: gbcrimson/hugo
+  name: github
+  repo: GBcrimson/hugo
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "src/img/galllery" # Media files will be stored in the repo under images/uploads
