@@ -2,7 +2,7 @@
 layout: blog
 title: rtyuioghjklghjk
 categories:
-  - happy meal
+  - happy_meal
 description: macmacmacmac
 type: raw bar
 price: '123'
